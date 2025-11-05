@@ -13,4 +13,4 @@ The 12 volt power in doesn't have its own connector on the boards, it is connect
 
 Bulb: https://www.aliexpress.us/item/2255801048097192.html
 
-
+A step file for the lantern assembly I built is included, but likely won't be super helpful. It's based on an outdoor house lamp I found at a thrift store.
